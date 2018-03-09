@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="etmmpigg" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="k2ag4x" name="SceneLogin.xml" path="/" exported="true"/>
+    <component id="k2ag4y" name="btn_image.xml" path="/" exported="true"/>
+    <component id="k2ag54" name="btn_bottom.xml" path="/" exported="true"/>
+    <component id="k2ag55" name="layerMain.xml" path="/" exported="true"/>
+    <image id="i8cp68" name="loading_run.png" path="/res/" exported="true"/>
+    <component id="ps4d69" name="toast.xml" path="/" exported="true"/>
+    <image id="ps4d6a" name="toast_bg.png" path="/res/" exported="true"/>
+    <component id="ps4d6b" name="loading.xml" path="/" exported="true"/>
+    <image id="ps4d6c" name="bg.png" path="/res/"/>
+    <image id="m5mt6d" name="bg.jpg" path="/res/" exported="true"/>
+    <image id="m5mt6e" name="btn_bg.png" path="/res/" exported="true"/>
+    <image id="m5mt6f" name="btn_pause.png" path="/res/" exported="true"/>
+    <image id="m5mt6g" name="bullet1.png" path="/res/" exported="true"/>
+    <image id="m5mt6h" name="bullet2.png" path="/res/" exported="true"/>
+    <image id="m5mt6i" name="enemy1_die4.png" path="/res/" exported="true"/>
+    <image id="m5mt6j" name="enemy1_down1.png" path="/res/" exported="true"/>
+    <image id="m5mt6k" name="enemy1_down2.png" path="/res/" exported="true"/>
+    <image id="m5mt6l" name="enemy1_down3.png" path="/res/" exported="true"/>
+    <image id="m5mt6m" name="enemy1_down4.png" path="/res/" exported="true"/>
+    <image id="m5mt6n" name="enemy1_fly1.png" path="/res/" exported="true"/>
+    <image id="m5mt6o" name="enemy2_down1.png" path="/res/" exported="true"/>
+    <image id="m5mt6p" name="enemy2_down2.png" path="/res/" exported="true"/>
+    <image id="m5mt6q" name="enemy2_down3.png" path="/res/" exported="true"/>
+    <image id="m5mt6r" name="enemy2_down4.png" path="/res/" exported="true"/>
+    <image id="m5mt6s" name="enemy2_fly1.png" path="/res/" exported="true"/>
+    <image id="m5mt6t" name="enemy2_hit.png" path="/res/" exported="true"/>
+    <image id="m5mt6u" name="enemy3_down1.png" path="/res/" exported="true"/>
+    <image id="m5mt6v" name="enemy3_down2.png" path="/res/" exported="true"/>
+    <image id="m5mt6w" name="enemy3_down3.png" path="/res/" exported="true"/>
+    <image id="m5mt6x" name="enemy3_down4.png" path="/res/" exported="true"/>
+    <image id="m5mt6y" name="enemy3_down5.png" path="/res/" exported="true"/>
+    <image id="m5mt6z" name="enemy3_down6.png" path="/res/" exported="true"/>
+    <image id="m5mt70" name="enemy3_fly1.png" path="/res/" exported="true"/>
+    <image id="m5mt71" name="enemy3_fly2.png" path="/res/" exported="true"/>
+    <image id="m5mt72" name="enemy3_hit.png" path="/res/" exported="true"/>
+    <image id="m5mt73" name="gameOver.png" path="/res/" exported="true"/>
+    <image id="m5mt74" name="gamePause.png" path="/res/" exported="true"/>
+    <image id="m5mt75" name="hero_die1.png" path="/res/" exported="true"/>
+    <image id="m5mt76" name="hero_die2.png" path="/res/" exported="true"/>
+    <image id="m5mt77" name="hero_die3.png" path="/res/" exported="true"/>
+    <image id="m5mt78" name="hero_die4.png" path="/res/" exported="true"/>
+    <image id="m5mt79" name="hero_down1.png" path="/res/" exported="true"/>
+    <image id="m5mt7a" name="hero_down2.png" path="/res/" exported="true"/>
+    <image id="m5mt7b" name="hero_down3.png" path="/res/" exported="true"/>
+    <image id="m5mt7c" name="hero_down4.png" path="/res/" exported="true"/>
+    <image id="m5mt7d" name="hero_fly1.png" path="/res/" exported="true"/>
+    <image id="m5mt7e" name="hero_fly2.png" path="/res/" exported="true"/>
+    <image id="m5mt7f" name="logo.png" path="/res/" exported="true"/>
+    <image id="m5mt7g" name="restart.png" path="/res/" exported="true"/>
+    <image id="m5mt7h" name="start.png" path="/res/" exported="true"/>
+    <image id="m5mt7i" name="ufo1.png" path="/res/" exported="true"/>
+    <image id="m5mt7j" name="ufo2.png" path="/res/" exported="true"/>
+    <image id="m5mt7k" name="ufo3.png" path="/res/" exported="true"/>
+    <image id="m5mt7l" name="ufo_boom.png" path="/res/" exported="true"/>
+    <image id="m5mt7m" name="background.png" path="/res/" exported="true"/>
+  </resources>
+  <publish name="common"/>
+</packageDescription>
